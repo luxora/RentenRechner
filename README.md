@@ -8,7 +8,7 @@ Stand: 12/2019
 - ggf. komplettes Berechungstool für 45 VII , 56 VII und 63er VII Leistungen erarbeiten.
 
 
-- bereits existierende Excel Version der Verwaltung in Java portieren.
+- bereits existierende Excel Version in Java portieren.
 - Anpassungen einberechnen
 - Auswahl der Anpassungsfaktoren
 - automatische Berechnungen für alle möglichen Fälle.
